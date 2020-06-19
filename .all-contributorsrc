@@ -344,6 +344,44 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "xinhaiwang",
+      "name": "Xinhai Wang",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/20069410?v=4",
+      "profile": "https://github.com/xinhaiwang",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "hmayer00",
+      "name": "Henry Mayer",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/821904?v=4",
+      "profile": "https://github.com/hmayer00",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "darkstarx",
+      "name": "Sergey",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3534966?v=4",
+      "profile": "https://github.com/darkstarx",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "MisterJimson",
+      "name": "Jason Rai",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7351329?v=4",
+      "profile": "https://github.com/MisterJimson",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
